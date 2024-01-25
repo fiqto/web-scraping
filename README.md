@@ -6,3 +6,4 @@ Menggunakan
 - Flask
 - Playwrite
 - Beautifulsoup
+- Pandas
