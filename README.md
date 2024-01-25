@@ -34,4 +34,4 @@ http://127.0.0.1:5000
 
 ## Kesimpulan
 
-Project ini telah berhasil melakukan scraping data produk dari web https://webscraper.io/test-sites/e-commerce/allinone. Data produk yang diperoleh disimpan dalam file data.csv dalam format yang mudah dibaca.
+Project ini telah berhasil melakukan scraping data produk dari web https://webscraper.io/test-sites/e-commerce/allinone. Data produk yang diperoleh disimpan dalam file items.csv dalam folder output dengan format yang mudah dibaca.
