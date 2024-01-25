@@ -6,7 +6,7 @@ from bs4 import BeautifulSoup
 
 app = Flask(__name__)
 
-def export_csv(items, path="Output", file_name="items.csv"):
+def export_csv(items, path="output", file_name="items.csv"):
     df = pd.DataFrame(items)
     os.makedirs(path, exist_ok=True)  
     df.to_csv(os.path.join(path, file_name), index=False)
