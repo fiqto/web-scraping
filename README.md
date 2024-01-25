@@ -22,15 +22,15 @@ Untuk menggunakan project ini, ikuti langkah-langkah berikut:
 ```python
 pip install -r requirements.txt
 ```
-3. Jalankan server:
+2. Jalankan server:
 ```python
 flask run
 ```
-5. Buka browser dan akses URL berikut:
+3. Buka browser dan akses URL berikut:
 ```python
 http://127.0.0.1:5000
 ```
-6. Data produk akan disimpan dalam file data.csv.
+4. Data produk akan disimpan dalam file data.csv.
 
 ## Kesimpulan
 
